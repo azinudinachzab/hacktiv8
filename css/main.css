@@ -1,0 +1,20 @@
+#main{
+    width: 100%;
+    height: auto;
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#form{
+    height: 200px;
+    width: 50%;
+    background-color: white;
+    display: inline-block;
+}
+
+.inputwidth{
+    width: 80%;
+    display: block;
+}
